@@ -3,15 +3,6 @@ Collecting cryptocurrency data using python.
 Python code to collect Bitcoin Etherium and Tetherium data from the web for a specific time.  
 
 ### INFORMATION  
-#### General
-- [Original Tweet](https://twitter.com/ukraine/status/1497594592438497282?lang=en)  
-- [BTC,Ether and Tether Addresses(tweet)](https://twitter.com/FedorovMykhailo/status/1497549813205848068)  
-- [Wallet addresses](https://business.diia.gov.ua/cases/novini/verified-ukraine-donations-list)  
-- [Crypto donations pour in to Ukraine: here’s where they’re coming from](https://www.businessofbusiness.com/articles/crypto-donations-ukraine-where-theyre-coming-from/)    
-- [Historic crypto](https://pypi.org/project/Historic-Crypto/)  
-- [Four models for the crypto world to coordinate charitable giving](https://coinyuppie.com/four-models-for-the-crypto-world-to-coordinate-charitable-giving/#group=nogroup&photo=0)  
-- [What is CryptoAirDrop?](https://www.coindesk.com/learn/what-is-a-crypto-airdrop/)  
-- [What is NFT](https://www.theverge.com/22310188/nft-explainer-what-is-blockchain-crypto-art-faq)  
 
 #### Ethereum
 - [Single large donation from the founder of Ether](https://cointelegraph.com/news/vitalik-buterin-quietly-donates-5m-eth-to-aid-ukraine-as-total-tracked-crypto-donations-reach-133m)  
