@@ -2,7 +2,9 @@
 Collecting cryptocurrency data using python.   
 Python code to collect Bitcoin Etherium and Tetherium data from the web for a specific time.  
 
-### INFORMATION  
+The project involved collecting Ethereum, Bitcoin, and Tether data from three different websites using API and web scraping techniques in Python. The data was gathered and stored for further analysis and visualization. The collected data can be used for various purposes such as predicting cryptocurrency prices, identifying trends, and making informed investment decisions. Additionally, feature engineering was also performed for better analysis.  
+
+### Resources  
 
 #### Ethereum
 - [Single large donation from the founder of Ether](https://cointelegraph.com/news/vitalik-buterin-quietly-donates-5m-eth-to-aid-ukraine-as-total-tracked-crypto-donations-reach-133m)  
